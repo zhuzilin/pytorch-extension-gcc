@@ -1,4 +1,4 @@
-# How to use gcc to compile pytorch extension
+# How to use g++ to compile pytorch extension
 In this example, we will use the code from the official example `lltm.cpp`: https://github.com/pytorch/extension-cpp
 
 ```bash
